@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/languageBuddy/LBBackend#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.5"
   },
   "devDependencies": {
     "dotenv": "^10.0.0",

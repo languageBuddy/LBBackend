@@ -1,6 +1,6 @@
 import express from 'express'
 import dotnev from 'dotenv'
-import router from './routes/router.js'
+import router from './routes/mail.js'
 
 dotnev.config() //can pass path inside config if have multiple .env files
 

@@ -1,10 +1,7 @@
-import express from "express";
-
-const router = express.Router()
-
-router.get('/', (req, res) => {
-    res.send('Hello world good morning')
-})
-
+import mail from './mail.js';
+console.log("router is running");
+const router={
+mail 
+}
 
 export default router
