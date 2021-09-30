@@ -1,0 +1,28 @@
+{
+  "name": "lbbackend",
+  "version": "1.0.0",
+  "description": "This is backend for Lanugage Buddy",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/languageBuddy/LBBackend.git"
+  },
+  "author": "Language Buddy Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/languageBuddy/LBBackend/issues"
+  },
+  "homepage": "https://github.com/languageBuddy/LBBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.13"
+  }
+}
