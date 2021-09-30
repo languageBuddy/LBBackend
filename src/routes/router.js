@@ -1,7 +1,7 @@
-import mail from './mail.js';
-console.log("router is running");
-const router={
-mail 
-}
+import express from 'express'
+
+
+const router = express.Router();
+
 
 export default router
