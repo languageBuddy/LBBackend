@@ -1,0 +1,2470 @@
+{
+    "audio": [
+        {
+            "module_name": "At a Glance",
+            "module_id": 1,
+            "description": "First look at course module",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940691/Module%201/11._good_bke0lt.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Bhalo",
+                            "bangla": "ভাল"
+                        },
+                        "english": "Good",
+                        "hindi_text": {
+                            "hinglish": "Achchha",
+                            "hindi": "अच्छा"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940691/Module%201/12._late_k2ajkz.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Deri",
+                            "bangla": "দেরী"
+                        },
+                        "english": "Late",
+                        "hindi_text": {
+                            "hinglish": "der",
+                            "hindi": "देर"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940691/Module%201/10._again_m9h49f.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Abar",
+                            "bangla": "আবার"
+                        },
+                        "english": "Again",
+                        "hindi_text": {
+                            "hinglish": "Phir",
+                            "hindi": "फिर"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940690/Module%201/8._give_o48unc.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dao",
+                            "bangla": "দাও"
+                        },
+                        "english": "Give",
+                        "hindi_text": {
+                            "hinglish": "Dena",
+                            "hindi": "देना"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940690/Module%201/9._where_y5sye0.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kothay",
+                            "bangla": "কোথায়"
+                        },
+                        "english": "Where",
+                        "hindi_text": {
+                            "hinglish": "kahaan",
+                            "hindi": "कहां"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940690/Module%201/6._He_speaks_bengali_uduujj.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tini Bangla Bhashay kotha bolte paren",
+                            "bangla": "তিনি বাংলা ভাষায় কথা বলেন"
+                        },
+                        "english": "He speaks bengali",
+                        "hindi_text": {
+                            "hinglish": "vah bangaalee bolata hai",
+                            "hindi": "वह बंगाली बोलता है"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940690/Module%201/7._with_qv8asd.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shonge",
+                            "bangla": "সঙ্গে"
+                        },
+                        "english": "With",
+                        "hindi_text": {
+                            "hinglish": "saath",
+                            "hindi": "साथ"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940690/Module%201/4._They_kimuic.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tara",
+                            "bangla": "তারা"
+                        },
+                        "english": "They",
+                        "hindi_text": {
+                            "hinglish": "ve",
+                            "hindi": "वे"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940690/Module%201/5._he_xkxhkw.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tini",
+                            "bangla": "তিনি"
+                        },
+                        "english": "He",
+                        "hindi_text": {
+                            "hinglish": "vah",
+                            "hindi": "वह"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940689/Module%201/2._You_phsing.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Apni",
+                            "bangla": "আপনি"
+                        },
+                        "english": "You",
+                        "hindi_text": {
+                            "hinglish": "aap",
+                            "hindi": "आप"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940689/Module%201/3._We_p3uywq.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amra",
+                            "bangla": "আমরা"
+                        },
+                        "english": "We",
+                        "hindi_text": {
+                            "hinglish": "ham",
+                            "hindi": "हम"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940680/Module%201/1._I_lal2lc.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami",
+                            "bangla": "আমি"
+                        },
+                        "english": "I",
+                        "hindi_text": {
+                            "hinglish": "mai",
+                            "hindi": "मैं"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Etiquettes",
+            "module_id": 2,
+            "description": "Common greetings",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940756/Module%202/11._Could_you_repeat_that_zmpcly.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Apni ki ota abar bolben?",
+                            "bangla": "আপনি কি ওটা আবার বলবেন?"
+                        },
+                        "english": "could you reapeat that?",
+                        "hindi_text": {
+                            "hinglish": "kya aap use dohara sakate hain?",
+                            "hindi": "क्या आप उसे दोहरा सकते हैं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940756/Module%202/7._Good_Morning_gdezyf.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Good Morning",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "शुभ प्रभात"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940756/Module%202/10._Bless_you_ikx8k3.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "Bless you",
+                        "hindi_text": {
+                            "hinglish": "Mai tumhe Aashirvad deta hu",
+                            "hindi": "मैं तुम्हे आशीर्वाद देता हूं।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940756/Module%202/6._I_am_sorry_r3c8rt.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "I am sorry",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": "मैं माफी चाहता हूं"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940756/Module%202/8._I_need_some_help_eqn9d6.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "I need some help",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "मुझे मदद चाहिए"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940756/Module%202/9._What_can_I_do_for_you_qucejk.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "What can I do for you?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "मैं तुम्हारे लिए क्या कर सकता हूं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940755/Module%202/4._No_Problem_dvyh81.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "No problem",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "कोई दीकत नहीं है"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940755/Module%202/5._Please_lwyhd1.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "Please",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "कृपया"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940755/Module%202/12._I_can_t_speak_bengali_enix93.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "I can't speak bengali",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "मैं बांग्ला नहीं बोल सकता"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940755/Module%202/2._Where_are_you_from_ypxnam.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "Where are you from?",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "आप कहां के रहने वाले हैं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940755/Module%202/1._My_name_is_Ram_jf023j.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "My name is Ram.",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "मेरा नाम राम है"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940755/Module%202/3._Thank_you_kvycsx.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Thank you",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "धन्यवाद"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Common questions",
+            "module_id": 3,
+            "description": "Questions asked in daily life",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940848/Module%203/4._where_are_the_books_qytorh.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "where are the books?",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "किताबें कहां हैं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/3._where_are_you_going_bpkxwv.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Where are you going?",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "तुम कहां जा रहे हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/2._what_is_that_ntsqdb.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "What is that?",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "  वो क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/1._what_is_your_name_ghnk1x.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "What is your name?",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": " तुम्हारा नाम क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/15._where_do_you_want_to_go_sippxi.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Where do you want to go?",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "तुम कहां जाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/12._how_far_is_it_x7ap7p.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "How far is it?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "वो कितना दूर है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/14._how_much_does_it_cost_bqooss.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "How much does it cost?",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "इसकी कीमत कितनी है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/13._how_is_the_current_weather_ajszac.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "How is current weather?",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "अभी मौसम कैसा है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940847/Module%203/11._what_time_it_is_zgng9l.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "What time it is?",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "अभी क्या समय है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940846/Module%203/5._what_do_you_want_to_eat_zwemqu.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "what do you want to eat?",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "तुम क्या खाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940846/Module%203/7._how_old_are_you_ydyylc.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "How old are you?",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "तुम्हारी उम्र क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940846/Module%203/9._when_is_your_birthday_z7b4kz.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "When is your birthday?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुम्हारा जन्मदिन कब है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 13,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940846/Module%203/10._what_did_you_say_tcztb1.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "What did you say?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुमने अभी क्या कहा?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 14,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940846/Module%203/6._may_i_speak_to_you_jfrafl.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "May I speak to you?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "क्या मैं आपसे बात कर सकता/सकती हूं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 15,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940846/Module%203/8._where_is_the_bathroom_vmwwer.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Where is the bathroom?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "शौचालय कहां है?"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Instructions",
+            "module_id": 4,
+            "description": "Commonly used affirmative sentence",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940968/Module%204/11._pick_up_the_phone_gecj3b.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "Pick up the phone",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "फॉन उठाओ|"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940968/Module%204/10._forget_about_it_rxx8l4.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Forget about it",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "इस बारे मैं भूल जाते हैं।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940968/Module%204/8._Give_it_back_m8wwd7.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "Give it back",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "उसे वापस लोटाओ|"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940968/Module%204/7._please_stop_bckbau.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "Please stop",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": "कृपया रुको।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940968/Module%204/9._Wake_up_iw7s9u.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Wake up",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "जाग जाओ|"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940968/Module%204/6._tell_me_about_yourself_tdihe0.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "Tell me about yourself",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "मुझे अपने बारे मैं कुछ बताओ।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940968/Module%204/4._leave_me_atowf6.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "Leave me",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "मुझे छोड़ दो।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/3._give_me_an_answer_vooprs.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "Give me an answer",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "मुझे एक जवाब दो।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/5._think_about_it_dl561u.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "Think about it",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "इस बारे मे सोचो।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/2._Keep_it_hii7pu.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "Keep it",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "इसे रखलो।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/12._do_not_ask_me_ckvyrw.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "Do not ask me",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "मुझसे मत पूछो।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/15._do_not_worry_hnqtce.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Do not worry.",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "चिंता मत करो।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 13,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/14._open_the_door_nfecgg.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Open the door.",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "दरवाजा खोलो।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 14,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/1_come_here_jqg1f5.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Come here",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "इधर आओ।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 15,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632940967/Module%204/13._send_me_an_email_fx8afn.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Send me an email.",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "मुझे ईमेल भेजो।"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Casual Interactions",
+            "module_id": 5,
+            "description": "Daily use casual questions and answers.",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941019/Module%205/7._do_you_travel_a_lot_nj2lta.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "Do you travel a lot?",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "क्या आप बोहोत घूमते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941019/Module%205/5._wait_for_a_moment_e4z54r.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Wait for a moment.",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "एक क्षण रुको।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941019/Module%205/4._where_should_we_go_ca3et6.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "Where should we go?",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "हमें कहां जाना चाहिए?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941019/Module%205/2._how_do_i_get_to_station_nij1ar.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "How do I get to station?",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": "यहां से मैं स्टेशन कैसे जाऊं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941019/Module%205/3._what_would_you_recommend_om74r3.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "What would you recommend?",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "तुम क्या सुझाव दोगे?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941019/Module%205/1._Is_this_seat_free_djimc2.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "Is this seat free?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "क्या यह कुर्सी खाली है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941019/Module%205/9._what_is_your_favourite_food_b2m7vb.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "What is your favourite food?",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "तुम्हारा मन पसंद खाना क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941018/Module%205/7._how_many_languages_do_you_speak_shjr36.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "How many languages do you speak?",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "तुम कितनी भाषाएं बोल लेते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941018/Module%205/11._what_kind_of_songs_do_you_like_ynt8s6.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "What kind of songs do you like?",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "तुम्हे किस तरह के गाने पसंद है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941018/Module%205/12._i_like_this_place_ukghvo.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "I like this place?",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "मुझे यह जगह पसंद है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941018/Module%205/10._what_is_your_favourite_book_t6jr3a.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "What is your favourite book?",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "तुम्हारी मनपसंद किताब कौनसी है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941018/Module%205/8._what_do_you_study_iov2i4.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "What do you study?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुम क्या पढ़ते हो?"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Daily needs",
+            "module_id": 6,
+            "description": "Sentences explaining daily activities",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941097/Module%206/4._What_s_the_way_to_the_bathroom_bqdltj.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "Whats the way to the bathroom?",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "शौचालय का रास्ता किधर है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941097/Module%206/3._I_would_like_to_buy..._kavbqy.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "I would like to buy this.",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "मैं यह खरीदना पसंद करूंगा।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/1._I_want_to_borrow_some_books_from_the_library_fe0diu.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "I want to borrow some books from the library?",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "मुझे पुस्तकालय से पुस्तकें उधार लेनी है।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/12._Can_you_please_repair_this_pzibcb.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "Can you please repair this?",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": "क्या आप इसको ठीक कर सकते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/2._How_much_does_fare_cost_from_Jirania_to_NIT_it7lbf.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "How much does fare cost from Jirania to NIT?",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "जिरानिया से एनआईटी जाने का किराया कितना है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/11._What_class_is_going_on_right_now_gl85xw.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "What class is going on right now?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "अभी कौनसी क्लास चल रही है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/5._I_need_to_go_the_doctor_ylls1y.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "I need to go the doctor.",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "मुझे डॉक्टर के पास जाने की जरूरत है।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/10._I_am_going_for_grocery_shopping_qcm9j2.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "I am going for grocery shopping.",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "मैं किराना का सामान खरीदने जा रहा हु।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/9._That_s_too_expensive_pm4tsa.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "Thats too expensive",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "यह बोहोत महंगा है।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/7._I_am_hungry_kifyb4.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "I am hungry.",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "मुझे भूख लगी है।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/8._I_am_thirsty_jjv3ko.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "I am thirsty.",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "मुझे प्यास लगी है।"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941096/Module%206/6._I_am_feeling_unwell_my6fo6.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "I am feeling unwell",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "मैं ठीक महसूस नहीं कर रहा/रही हूं।"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Daily Items",
+            "module_id": 7,
+            "description": "Bengali for commonly used items.",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/2._plate_ixgcj1.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "Plate",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "थाली"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/4._notebook_lrzgt9.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Notebook",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "स्मरण पुस्तक"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/3._Spoon_bxc8tr.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "Spoon",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "चम्मच"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/1._soap_kuxwuj.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "Soap",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": "साबुन"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/8._pillow_c4w5ex.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Pillow",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "तकिया"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/7._socks_stdu7d.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "Socks",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "जुराब"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/10._medicine_zv6oby.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "Medicine",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "दवाई"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/9._glue_ohhqx4.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "Glue",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "गोंद"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/6._clothes_hqsuzr.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "Clothes",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "कपड़े"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941121/Module%207/5._salt_v8z89p.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "Salt",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "नमक"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Days/Month/Year",
+            "module_id": 8,
+            "description": "Days of week, month and year.",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/4._Sunday_ajmohq.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "Sunday",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "रविवार"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/5._Monday_i5uvef.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Monday",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "सोमवार"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/6._Tuesday_iepkr2.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "Tuesday",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "मंगलवार"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941141/Module%208/7._Wednesday_bf4axj.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "Wednesday",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": "बुधवार"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/8._Thursday_khgiaw.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Thursday",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "गुरुवार"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/9._Friday_hlgv5t.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "Friday",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "शुक्रवार"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/10._Saturday_haeq2m.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "Saturday",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "शनिवार"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/2._Yesterday_v7iagt.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "Yesterday",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "कल"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/3._Tomorrow_bghyfj.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "Tomorrow",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "कल"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/1._Today_stffdq.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "Today",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "आज"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/12._Year_d16w70.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "Year",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "साल"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/13._Today_is_Monday_swomrt.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Today is Monday",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "आज सोमवार है"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 13,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941140/Module%208/11._Month_yoajug.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Month",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "महीना"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Body Part",
+            "module_id": 9,
+            "description": "Body parts having different name in Bengali",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/5._finger_ikc6gm.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "where are the books?",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "किताबें कहां हैं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/4._chest_aru9rj.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Where are you going?",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "तुम कहां जा रहे हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/3._elbow_oxltaz.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "What is that?",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "  वो क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/2._shoulder_kwajpj.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "What is your name?",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": " तुम्हारा नाम क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/1._head_of7bhg.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Where do you want to go?",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "तुम कहां जाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/12._knee_voxcqr.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "How far is it?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "वो कितना दूर है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/11._lip_j6x07l.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "How much does it cost?",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "इसकी कीमत कितनी है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/7._face_givsgb.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "How is current weather?",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "अभी मौसम कैसा है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/8._hair_wclopf.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "What time it is?",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "अभी क्या समय है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/10._eye_j3mma1.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "what do you want to eat?",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "तुम क्या खाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/9._forehead_pc6lki.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "How old are you?",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "तुम्हारी उम्र क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "https://res.cloudinary.com/dsrpn6k2o/video/upload/v1632941163/Module%209/6._foot_fjxhyy.mp3",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "When is your birthday?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुम्हारा जन्मदिन कब है?"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Daily Items",
+            "module_id": 10,
+            "description": "Bengali for commonly used items.",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "where are the books?",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "किताबें कहां हैं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Where are you going?",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "तुम कहां जा रहे हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "What is that?",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "  वो क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "What is your name?",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": " तुम्हारा नाम क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Where do you want to go?",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "तुम कहां जाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "How far is it?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "वो कितना दूर है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "How much does it cost?",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "इसकी कीमत कितनी है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "How is current weather?",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "अभी मौसम कैसा है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "What time it is?",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "अभी क्या समय है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "what do you want to eat?",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "तुम क्या खाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "How old are you?",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "तुम्हारी उम्र क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "When is your birthday?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुम्हारा जन्मदिन कब है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 13,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "What did you say?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुमने अभी क्या कहा?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 14,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "May I speak to you?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "क्या मैं आपसे बात कर सकता/सकती हूं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 15,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Where is the bathroom?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "शौचालय कहां है?"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Daily Items",
+            "module_id": 11,
+            "description": "Bengali for commonly used items.",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "where are the books?",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "किताबें कहां हैं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Where are you going?",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "तुम कहां जा रहे हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "What is that?",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "  वो क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "What is your name?",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": " तुम्हारा नाम क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Where do you want to go?",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "तुम कहां जाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "How far is it?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "वो कितना दूर है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "How much does it cost?",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "इसकी कीमत कितनी है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "How is current weather?",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "अभी मौसम कैसा है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "What time it is?",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "अभी क्या समय है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "what do you want to eat?",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "तुम क्या खाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "How old are you?",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "तुम्हारी उम्र क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "When is your birthday?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुम्हारा जन्मदिन कब है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 13,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "What did you say?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुमने अभी क्या कहा?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 14,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "May I speak to you?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "क्या मैं आपसे बात कर सकता/सकती हूं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 15,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Where is the bathroom?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "शौचालय कहां है?"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "module_name": "Daily Items",
+            "module_id": 12,
+            "description": "Bengali for commonly used items.",
+            "module_img_url": "",
+            "audios": [
+                {
+                    "audio_id": 1,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "",
+                            "bangla": ""
+                        },
+                        "english": "where are the books?",
+                        "hindi_text": {
+                            "hinglish": "",
+                            "hindi": "किताबें कहां हैं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 2,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Shuprabhat",
+                            "bangla": "সুপ্রভাত"
+                        },
+                        "english": "Where are you going?",
+                        "hindi_text": {
+                            "hinglish": "shub prabhat",
+                            "hindi": "तुम कहां जा रहे हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 3,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tomar mongol hok",
+                            "bangla": "তোমার মঙ্গল হোক"
+                        },
+                        "english": "What is that?",
+                        "hindi_text": {
+                            "hinglish": "Aashirvad karta hu",
+                            "hindi": "  वो क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 4,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amake khoma koro",
+                            "bangla": "আমাকে ক্ষমা করো"
+                        },
+                        "english": "What is your name?",
+                        "hindi_text": {
+                            "hinglish": "main maaphee chaahata hoon",
+                            "hindi": " तुम्हारा नाम क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 5,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar kichu sahajjo dorkar",
+                            "bangla": "আমার কিছু সাহায্য দরকার"
+                        },
+                        "english": "Where do you want to go?",
+                        "hindi_text": {
+                            "hinglish": "muje madad chahiye",
+                            "hindi": "तुम कहां जाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 6,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami apnar jonno ki korte pari?",
+                            "bangla": "আমি আপনার জন্য কি করতে পারি?"
+                        },
+                        "english": "How far is it?",
+                        "hindi_text": {
+                            "hinglish": "mai tumhare liye kya kar sakta hoon?",
+                            "hindi": "वो कितना दूर है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 7,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Kono shomoshya nei",
+                            "bangla": "কোনো সমস্যা নেই"
+                        },
+                        "english": "How much does it cost?",
+                        "hindi_text": {
+                            "hinglish": "koee deekat nahin hai",
+                            "hindi": "इसकी कीमत कितनी है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 8,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Anugroho",
+                            "bangla": "অনুগ্রহ"
+                        },
+                        "english": "How is current weather?",
+                        "hindi_text": {
+                            "hinglish": "kripaya",
+                            "hindi": "अभी मौसम कैसा है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 9,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Ami bangla bolte pari na",
+                            "bangla": "আমি বাংলা বলতে পারি না"
+                        },
+                        "english": "What time it is?",
+                        "hindi_text": {
+                            "hinglish": "main baangla nahin bol sakata",
+                            "hindi": "अभी क्या समय है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 10,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Tumi kotha theke ascho?",
+                            "bangla": "তুমি কথা থেকে আসছো?"
+                        },
+                        "english": "what do you want to eat?",
+                        "hindi_text": {
+                            "hinglish": "aap kahaan ke rahane vaale hain?",
+                            "hindi": "तुम क्या खाना चाहते हो?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 11,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Amar nam Ram",
+                            "bangla": "আমার নাম রাম"
+                        },
+                        "english": "How old are you?",
+                        "hindi_text": {
+                            "hinglish": "mera naam raam hai",
+                            "hindi": "तुम्हारी उम्र क्या है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 12,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "When is your birthday?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुम्हारा जन्मदिन कब है?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 13,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "What did you say?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "तुमने अभी क्या कहा?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 14,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "May I speak to you?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "क्या मैं आपसे बात कर सकता/सकती हूं?"
+                        }
+                    }
+                },
+                {
+                    "audio_id": 15,
+                    "audio_url": "",
+                    "audio_text": {
+                        "bangla_text": {
+                            "benglish": "Dhonnobad",
+                            "bangla": "ধন্যবাদ"
+                        },
+                        "english": "Where is the bathroom?",
+                        "hindi_text": {
+                            "hinglish": "dhanyavaad",
+                            "hindi": "शौचालय कहां है?"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
