@@ -2,6 +2,7 @@ import express from 'express'
 import dotnev from 'dotenv'
 import router from './routes/mail.js'
 import cors from 'cors'
+import db from './models/db.js'
 
 dotnev.config() //can pass path inside config if have multiple .env files
 
