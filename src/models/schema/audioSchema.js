@@ -19,7 +19,6 @@ const AudioSchema = new mongoose.Schema({
     audios : [{
         audio_id : {
             type:Number,
-            unique:true,
             required:true
         },
         audio_url : {

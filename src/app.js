@@ -1,8 +1,8 @@
 import express from 'express'
 import dotnev from 'dotenv'
-import router from './routes/mail.js'
+import router from './routes/router.js'
 import cors from 'cors'
-import db from './models/db.js'
+import DB from './models/db.js'
 
 dotnev.config() //can pass path inside config if have multiple .env files
 
@@ -16,7 +16,8 @@ app.use(express.urlencoded({ extended: true }))
 app.use('/', router);
 
 const port = process.env.PORT || 80
-app.listen(port, () => {
+app.listen(port, async () => {
+    await DB()
     console.log(`Server is running on http://localhost:${port}`)
 })
 
