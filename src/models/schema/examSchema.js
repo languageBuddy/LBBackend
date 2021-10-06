@@ -2,7 +2,8 @@ import mongoose from 'mongoose'
 
 const examSchema = new mongoose.Schema({
     question_id: Number,
-    questionUrl: String,
+    questionAudioUrl: String,
+    questionText: String,
     answerOptions: [
         {
             answerText: String,
