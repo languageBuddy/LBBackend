@@ -49,41 +49,4 @@ router.post('/update', async (req, res) => {
 })
 
 
-
-router.post('/fc', (req, res) => {
-    const { uuid } = req.body
-
-    const initialState = {
-        uuid: uuid,
-        progressData: {
-            '1': true
-        }
-    }
-
-    progressmodel.findOne({ uuid }, (err, docs) => {
-        if (err) {
-            return res.send({
-                message: err.message
-            })
-        }
-
-        if (docs == null) {
-            const data = new progressmodel(initialState)
-            data.save((error, result) => {
-                if (error) {
-                    return res.send({
-                        message: error.message
-                    })
-                }
-                return res.send(result)
-            })
-        }
-        else {
-            return res.send(docs)
-        }
-
-    })
-
-})
-
 export default router
