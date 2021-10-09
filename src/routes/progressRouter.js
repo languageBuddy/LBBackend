@@ -1,6 +1,5 @@
 import express from 'express'
 import progressmodel from '../models/schema/progressSchema.js'
-import audiomodel from '../models/schema/audioSchema.js'
 const router = express.Router()
 import dotenv from 'dotenv'
 dotenv.config()
