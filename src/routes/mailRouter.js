@@ -1,5 +1,8 @@
 import express from "express";
 import nodemailer from "nodemailer";
+import dotenv from 'dotenv'
+
+dotenv.config()
 
 const router = express.Router()
 
@@ -23,8 +26,8 @@ router.post('/send', (req, res) => {
     port: 2525,
     secure: false, // true for 465, false for other ports
     auth: {
-      user: "0bd00edd49a229", // generated ethereal user
-      pass: "0e5a74f8bd8cad"  // generated ethereal password
+      user: process.env.NODE_AUTH_USER, // generated ethereal user
+      pass: process.env.NODE_AUTH_PASS  // generated ethereal password
     },
     tls: {
       rejectUnauthorized: false
@@ -33,8 +36,8 @@ router.post('/send', (req, res) => {
 
   // setup email data with unicode symbols
   let mailOptions = {
-    from: '"Nodemailer Contact" <0bd00edd49a229>', // sender address
-    to: 'rayanubhab@gmail.com', // list of receivers
+    from: `"Nodemailer Contact" <${process.env.NODE_AUTH_USER}>`, // sender address
+    to: 'lanuguagebuddy@gmail.com', // list of receivers
     subject: 'Message Notification', // Subject line
     text: 'Hello world?', // plain text body
     html: output // html body
