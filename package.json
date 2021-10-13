@@ -5,11 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "clean": "rm -rf build && mkdir build",
-    "build-babel": "babel -d ./build ./src -s",
     "dev": "nodemon src/app.js",
-    "build": "npm run clean && npm run build-babel",
-    "start": "npm run build && node ./build/app.js"
+    "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
