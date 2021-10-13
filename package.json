@@ -21,13 +21,9 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^6.0.8",
-    "nodemailer": "^6.6.5",
-    "rimraff": "^0.0.1-security"
+    "nodemailer": "^6.6.5"
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.7",
-    "@babel/core": "^7.15.8",
-    "@babel/preset-env": "^7.15.8",
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.13"
   }
