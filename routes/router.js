@@ -7,9 +7,6 @@ import progress from './progressRouter.js'
 
 const router = express.Router();
 
-
-
-
 router.use('/mail', mailrouter);
 router.use('/db', dbrouter);
 router.use('/db/test', test)
