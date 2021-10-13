@@ -5,8 +5,11 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "start": "node src/app.js",
-    "dev": "nodemon src/app.js"
+    "clean": "rm -rf build && mkdir build",
+    "build-babel": "babel -d ./build ./src -s",
+    "dev": "nodemon src/app.js",
+    "build": "npm run clean && npm run build-babel",
+    "start": "npm run build && node ./build/app.js"
   },
   "repository": {
     "type": "git",
@@ -19,12 +22,14 @@
   },
   "homepage": "https://github.com/languageBuddy/LBBackend#readme",
   "dependencies": {
+    "babel-preset-env": "^1.7.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^6.0.8",
     "nodemailer": "^6.6.5"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.13"
   }
