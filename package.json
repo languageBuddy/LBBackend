@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,9 @@
     "express": "^4.17.1",
     "mongoose": "^6.0.8",
     "nodemailer": "^6.6.5"
+  },
+  "engines": {
+    "node": "v14.16.1"
   },
   "devDependencies": {
     "dotenv": "^10.0.0",
