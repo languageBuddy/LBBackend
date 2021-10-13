@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js",
-    "heroku-postbuild": "npm install"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
