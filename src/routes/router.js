@@ -9,9 +9,6 @@ const router = express.Router();
 
 
 
-router.get('/', (req, res) => {
-    res.send('This is language Buddy backend')
-})
 
 router.use('/mail', mailrouter);
 router.use('/db', dbrouter);

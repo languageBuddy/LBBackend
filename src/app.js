@@ -16,6 +16,11 @@ app.use(express.urlencoded({ extended: true }))
 //routing
 app.use('/', router);
 
+
+app.get('/', (req, res) => {
+    res.send('Welcome to language Buddy')
+})
+
 const port = process.env.PORT || 80
 app.listen(port, async () => {
     await DB()
