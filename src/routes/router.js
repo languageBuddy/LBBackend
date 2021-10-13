@@ -7,7 +7,13 @@ import progress from './progressRouter.js'
 
 const router = express.Router();
 
-router.use('/', mailrouter);
+
+
+router.get('/', (req, res) => {
+    res.send('This is language Buddy backend')
+})
+
+router.use('/mail', mailrouter);
 router.use('/db', dbrouter);
 router.use('/db/test', test)
 router.use('/exam', exam)
